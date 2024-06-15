@@ -29,11 +29,6 @@ This simple application is designed to test users' knowledge of Object-Oriented 
 
 This project depicts the general usability of Flutter in creating cross-platform applications with an agile user experience.
 
-### 📈 GitHub Stats
-
-![Aryan Deshpande's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshryn&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dshryn&layout=compact&theme=radical)
-
 ### 📫 Contact
 
 - **Email**: [dshryng@gmail.com](mailto:dshryng@gmail.com)
