@@ -18,7 +18,7 @@ This Flutter application simplifies financial management by enabling users to tr
 **Key Features**:
 - **Expense Management**: Add, view, and delete expenses with ease.
 - **Categories**: Organize expenses into predefined categories.
-- **Interactive UI**: Utilizes Flutter's state management, custom widgets, and theming for a polished user experience.
+- **Interactive UI**: Utilizes Flutter's Theming contexts, custom widgets and state management for a polished user experience.
 - **Native Interfaces**: Preserves platform-specific styles, enhancing familiarity.
 - **Chart Visualization**: Provides graphical representations of spending habits.
 
