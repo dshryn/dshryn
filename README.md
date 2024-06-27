@@ -12,6 +12,23 @@ I am a second-year B.Tech IT student at VIT Vellore, currently improving my unde
 
 ### 📚 Projects
 
+#### [Expense Tracker App](https://github.com/dshryn/expense_tracker)
+This Flutter application simplifies financial management by enabling users to track and organize expenses effortlessly. It offers a user-friendly interface for adding, viewing, and deleting expenses, categorized into Food, Travel, Leisure, and Work. The app includes interactive charts to visualize spending patterns, enhancing financial awareness.
+
+**Key Features**:
+- **Expense Management**: Add, view, and delete expenses with ease.
+- **Categories**: Organize expenses into predefined categories.
+- **Interactive UI**: Utilizes Flutter's state management, custom widgets, and theming for a polished user experience.
+- **Native Interfaces**: Preserves platform-specific styles, enhancing familiarity.
+- **Chart Visualization**: Provides graphical representations of spending habits.
+
+**Flutter Concepts Utilized**:
+- **State Management**: Leveraged with StatefulWidget and setState for reactive UI updates.
+- **Navigation**: Implements modal bottom sheets for seamless interaction.
+- **Custom Widgets**: Encapsulates UI components to maintain consistency and reusability.
+- **Theming and Styling**: Enhances visual appeal using ThemeData and LinearGradient.
+- **Asset Management**: Efficiently manages icons and assets to optimize performance.
+
 #### [Quiz App](https://github.com/dshryn/quiz_app)
 This simple application is designed to test users' knowledge of Object-Oriented Programming (OOP) concepts through an engaging and interactive quiz interface. Built using Flutter, it showcases state management, navigation, and custom widgets. Key features include:
 
@@ -27,7 +44,7 @@ This simple application is designed to test users' knowledge of Object-Oriented 
 - **Theming and Styling**: Uses `BoxDecoration`, `LinearGradient`, and Google Fonts.
 - **Asset Management**: Incorporates images and developer-imported fonts.
 
-This project depicts the general usability of Flutter in creating cross-platform applications with an agile user experience.
+These projects depict the general usability of Flutter in creating cross-platform applications with an agile user experience.
 
 ### 📈 GitHub Stats
 
