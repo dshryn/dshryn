@@ -12,7 +12,7 @@ I am a second-year B.Tech IT student at VIT Vellore, currently improving my unde
 
 ### 📚 Projects
 
-#### [Expense Tracker App](https://github.com/dshryn/expense_tracker)
+### [Expense Tracker App](https://github.com/dshryn/expense_tracker)
 This Flutter application simplifies financial management by enabling users to track and organize expenses effortlessly. It offers a user-friendly interface for adding, viewing, and deleting expenses, categorized into Food, Travel, Leisure, and Work. The app includes interactive charts to visualize spending patterns, enhancing financial awareness.
 
 **Key Features**:
@@ -29,7 +29,7 @@ This Flutter application simplifies financial management by enabling users to tr
 - **Theming and Styling**: Enhances visual appeal using ThemeData and LinearGradient.
 - **Asset Management**: Efficiently manages icons and assets to optimize performance.
 
-#### [Quiz App](https://github.com/dshryn/quiz_app)
+### [Quiz App](https://github.com/dshryn/quiz_app)
 This simple application is designed to test users' knowledge of Object-Oriented Programming (OOP) concepts through an engaging and interactive quiz interface. Built using Flutter, it showcases state management, navigation, and custom widgets. Key features include:
 
 - **Interactive Start Screen**: Welcoming message and quiz initiation.
