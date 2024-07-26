@@ -7,7 +7,6 @@ I am a second-year B.Tech IT student at VIT Vellore, currently improving my unde
 - **Languages**: C, C++, Python
 - **Python Libraries**: NumPy, Pandas, Matplotlib
 - **Databases**: MongoDB, SQL
-- **Backend**: Node.js
 - **Cross Platform Application Development**: Flutter
 
 ### 📚 Projects
