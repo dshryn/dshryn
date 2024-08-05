@@ -1,13 +1,13 @@
 # Hi there, I'm Aryan Deshpande 👋
 
-I am a second-year B.Tech IT student at VIT Vellore, currently honing my expertise in Flutter and Firebase. My academic and project endeavors have endowed me with a robust proficiency in an array of programming languages and cutting-edge technologies.
+I am a second-year B.Tech IT student at VIT Vellore, currently honing my expertise in Flutter, Firebase, and backend services through Node.js frameworks. My academic and project endeavors have endowed me with proficiency in a diverse array of programming languages and the latest technologies.
 
 ## 🛠 Technologies & Tools
 
-**Languages:** C, C++, Python, Dart
+**Languages:** C, C++, Python, Dart  
 **Python Libraries:** NumPy, Pandas, Matplotlib  
 **Backend/Databases:** Firebase, MongoDB, SQL  
-**Cross Platform Application Development:** Flutter  
+**Cross-Platform Frontend:** Flutter  
 
 ## 📚 Projects
 
@@ -28,7 +28,7 @@ A comprehensive Flutter and Firebase-based group chat application featuring a co
 - **UI/UX Design:** Implements Material Design principles and custom widgets to ensure a coherent and intuitive user interface.
 
 ### [Food Recipe App](https://github.com/dshryn/food-recipe-app)
-A sophisticated mobile application designed showcase a diverse array of culinary recipes and leverage the power of Flutter for a seamless cross-platform experience.
+A sophisticated mobile application designed to showcase a diverse array of culinary recipes and leverage the power of Flutter for a seamless cross-platform experience.
 
 **Key Features:**
 
@@ -41,14 +41,14 @@ A sophisticated mobile application designed showcase a diverse array of culinary
 - **State Management & Data Binding:** Utilizes Flutter's state management, including Provider and ChangeNotifier, for efficient state handling.
 - **Responsive Design:** Ensures consistent performance and visual appeal across various devices and screen sizes, thanks to Flutter's adaptive design principles.
 
-These projects exemplify my commitment to leveraging Flutter's capabilities for creating cross-platform applications with high-performance, real-time features, and a refined user experience including backend services through Firebase.
+These projects exhibit my experience with problem-solving and efficient programming, along with Flutter's capabilities for creating cross-platform applications with high performance, real-time features, and a refined user experience, including backend services through Firebase.
 
+Kindly [visit my profile](https://github.com/dshryn) for other basic projects that I created during my learning process.
 
 ## 📈 GitHub Stats
 
-![Aryan Deshpande's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshryn&show_icons=true&theme=radical)
+![Aryan Deshpande's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshryn&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dshryn&layout=compact&theme=radical)
-
 
 ## 📫 Contact
 
