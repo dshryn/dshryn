@@ -11,7 +11,7 @@ I am a second-year B.Tech IT student at VIT Vellore, currently honing my experti
 
 ## 📚 Projects
 
-### [Group Chat Application](https://github.com/dshryn/grp-chat-app)
+### [Group Chat Application](https://github.com/dshryn/grp-chat-app) 👥💬
 A comprehensive Flutter and Firebase-based group chat application featuring a cohesive, universal group chat interface. This project showcases intricate aspects of user authentication, real-time messaging, and simple profile setup mechanisms.
 
 **Key Features:**
@@ -27,23 +27,24 @@ A comprehensive Flutter and Firebase-based group chat application featuring a co
 - **Data Synchronization:** Leverages Firebase Cloud Firestore's real-time database for persistent data storage and retrieval.
 - **UI/UX Design:** Implements Material Design principles and custom widgets to ensure a coherent and intuitive user interface.
 
-### [Food Recipe App](https://github.com/dshryn/food-recipe-app)
-A sophisticated mobile application designed to showcase a diverse array of culinary recipes and leverage the power of Flutter for a seamless cross-platform experience.
+### [Food Recipe App](https://github.com/dshryn/food-recipe-app) 🍕🍷
+A mobile application designed to showcase a diverse array of culinary recipes and leverage the power of Flutter for a seamless cross-platform experience.
 
 **Key Features:**
 
 - **Recipe Curation:** A comprehensive repository of recipes, categorized for easy navigation and discovery.
 - **Interactive UI:** Dynamic interfaces with custom widgets to enhance user engagement.
-- **Search & Filter:** Advanced search and filtering options to find recipes based on ingredients, cuisine, and dietary preferences.
+- **Filter options:** Advanced filtering options to find recipes based on ingredients, cuisine, and dietary preferences.
+- **Favorites Menu:** Option to add any recipe to favorites list and to access the complete list on a seperate screen.
 
 **Technical Highlights:**
 
-- **State Management & Data Binding:** Utilizes Flutter's state management, including Provider and ChangeNotifier, for efficient state handling.
+- **State Management & Data Binding:** Utilizes Flutter's state management, including Provider, for efficient state handling.
 - **Responsive Design:** Ensures consistent performance and visual appeal across various devices and screen sizes, thanks to Flutter's adaptive design principles.
 
 These projects exhibit my experience with problem-solving and efficient programming, along with Flutter's capabilities for creating cross-platform applications with high performance, real-time features, and a refined user experience, including backend services through Firebase.
 
-Kindly [visit my repositories]([https://github.com/dshryn](https://github.com/dshryn?tab=repositories) for other basic projects that I created during my learning process.
+Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for other basic projects that I created during my learning process.
 
 ## 📈 GitHub Stats
 
