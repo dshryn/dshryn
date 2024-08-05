@@ -43,7 +43,7 @@ A sophisticated mobile application designed to showcase a diverse array of culin
 
 These projects exhibit my experience with problem-solving and efficient programming, along with Flutter's capabilities for creating cross-platform applications with high performance, real-time features, and a refined user experience, including backend services through Firebase.
 
-Kindly [visit my profile](https://github.com/dshryn) for other basic projects that I created during my learning process.
+Kindly [visit my repositories]([https://github.com/dshryn](https://github.com/dshryn?tab=repositories) for other basic projects that I created during my learning process.
 
 ## 📈 GitHub Stats
 
