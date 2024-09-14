@@ -12,7 +12,7 @@ I am a second-year B.Tech IT student at VIT Vellore, currently honing my experti
 ## 📚 Projects
 
 ### [Group Chat Application](https://github.com/dshryn/grp-chat-app) 👥💬
-A comprehensive Flutter and Firebase-based group chat application featuring a cohesive, universal group chat interface. This project showcases intricate aspects of user authentication, real-time messaging, and simple profile setup mechanisms.
+A Flutter and Firebase-based group chat application featuring a cohesive, universal group chat interface. This project showcases the implementation of user authentication, real-time messaging, and a simple profile setup mechanism.
 
 **Key Features:**
 
@@ -28,11 +28,11 @@ A comprehensive Flutter and Firebase-based group chat application featuring a co
 - **UI/UX Design:** Implements Material Design principles and custom widgets to ensure a coherent and intuitive user interface.
 
 ### [Food Recipe App](https://github.com/dshryn/food-recipe-app) 🍕🍷
-A mobile application designed to showcase a diverse array of culinary recipes and leverage the power of Flutter for a seamless cross-platform experience.
+A mobile application designed to showcase a diverse array of Indian culinary recipes and leverage the power of Flutter for a seamless cross-platform experience.
 
 **Key Features:**
 
-- **Recipe Curation:** A comprehensive repository of recipes, categorized for easy navigation and discovery.
+- **Recipe Curation:** A comprehensive repository of Indian recipes, categorized for easy navigation.
 - **Interactive UI:** Dynamic interfaces with custom widgets to enhance user engagement.
 - **Filter options:** Advanced filtering options to find recipes based on ingredients, cuisine, and dietary preferences.
 - **Favorites Menu:** Option to add any recipe to favorites list and to access the complete list on a seperate screen.
