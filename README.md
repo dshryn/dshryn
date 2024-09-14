@@ -1,6 +1,6 @@
 # Hi there, I'm Aryan Deshpande 👋
 
-I am a second-year B.Tech IT student at VIT Vellore, currently honing my expertise in Flutter, Firebase, and backend services through Node.js frameworks. My academic and project endeavors have endowed me with proficiency in a diverse array of programming languages and the latest technologies.
+I am a second-year B.Tech IT student at VIT Vellore, currently honing my expertise in Flutter, Firebase, and backend frameworks of JavaScript. My academic and project endeavors have equipped me with proficiency in a diverse array of programming languages and frameworks.
 
 ## 🛠 Technologies & Tools
 
