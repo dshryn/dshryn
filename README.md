@@ -4,7 +4,7 @@ I am a second-year B.Tech IT student at VIT Vellore, currently broadening my exp
 
 ## 🛠 Technologies & Tools
 
-**Languages:** C, C++, Python, Dart  
+**Languages:** C, C++, Java, Python, Dart  
 **Python Libraries:** NumPy, Pandas, Matplotlib  
 **Backend/Databases:** Firebase, MongoDB, SQL  
 **Cross-Platform Frontend:** Flutter  
