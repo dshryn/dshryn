@@ -54,7 +54,7 @@ Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for o
 ## 📫 Contact
 
 - **Email**: [dshryng@gmail.com](mailto:dshryng@gmail.com)
-- **LinkedIn**: [Aryan Vinod Deshpande](https://www.linkedin.com/in/aryan-vinod-deshpande-aabb2228a)
+- **LinkedIn**: [Aryan V Deshpande](https://www.linkedin.com/in/aryan-v-deshpande-aabb2228a/)
 
 <!---
 dshryn/dshryn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
