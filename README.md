@@ -44,7 +44,7 @@ A mobile application designed to showcase a diverse array of Indian culinary rec
 
 These projects exhibit my experience with problem-solving and efficient programming, along with Flutter's capabilities for creating cross-platform applications with high performance, real-time features, and a refined user experience, including backend services through Firebase.
 
-Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for other basic projects that I created during my learning process.
+Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for more such projects.
 
 ## 📈 GitHub Stats
 
