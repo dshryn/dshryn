@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=00FF00&width=600&lines=Hi+there%2C+I'm+Aryan+Deshpande+%F0%9F%91%8B&center=true&repeat=true)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=500&lines=Hi+there%2C+I'm+Aryan+Deshpande+%F0%9F%91%8B&center=true&repeat=true)
 
 I am a second-year B.Tech IT student at VIT Vellore, currently exploring Flutter, Firebase, and backend frameworks of JavaScript. My academic and project experience has equipped me with significant technical expertise in the following areas.
 
@@ -51,7 +51,7 @@ A Flutter and Firebase-based group chat application featuring a universal group 
 Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for more such projects.
 
 
-## GitHub Stats
+## GitHub Stats 📊
 
 ![](https://github-readme-stats.vercel.app/api?username=dshryn&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117)
 
