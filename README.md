@@ -53,8 +53,12 @@ Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for m
 
 ## 📈 GitHub Stats
 
-![Aryan Deshpande's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshryn&show_icons=true&theme=radical)  
+![Aryan Deshpande's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshryn&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dshryn&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=dshryn&theme=radical&hide_border=false)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dshryn&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 📫 Contact
 
