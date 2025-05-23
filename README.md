@@ -51,7 +51,7 @@ A Flutter and Firebase-based group chat application featuring a universal group 
 Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for more such projects.
 
 
-## GitHub Stats 📊
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=dshryn&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117)
 
@@ -64,7 +64,7 @@ Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for m
 ## 📫 Contact
 
 - *Email*: [dshryng@gmail.com](mailto:dshryng@gmail.com)
-- *LinkedIn*: [Aryan V Deshpande](https://www.linkedin.com/in/aryan-v-deshpande-aabb2228a/)
+- *LinkedIn*: [Aryan Deshpande](https://www.linkedin.com/in/aryan-deshpande-aabb2228a/)
 
 <!---
 dshryn/dshryn is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
