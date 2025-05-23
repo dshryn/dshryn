@@ -1,6 +1,4 @@
-
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&width=435&lines=Hi+there%2C+I'm+Aryan+Deshpande+%F0%9F%91%8B&center=true&repeat=false)
-
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=500&lines=Hi+there%2C+I'm+Aryan+Deshpande+%F0%9F%91%8B&center=true&repeat=true)
 
 I am a second-year B.Tech IT student at VIT Vellore, currently exploring Flutter, Firebase, and backend frameworks of JavaScript. My academic and project experience has equipped me with significant technical expertise in the following areas.
 
