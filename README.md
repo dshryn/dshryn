@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=500&lines=Hi+there%2C+I'm+Aryan+Deshpande+%F0%9F%91%8B&center=true&repeat=true)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=500&lines=Hi+there%2C+I'm+Aryan+Deshpande+%F0%9F%91%8B&center=true&repeat=true)
 
 I am a second-year B.Tech IT student at VIT Vellore, currently exploring Flutter, Firebase, and backend frameworks of JavaScript. My academic and project experience has equipped me with significant technical expertise in the following areas.
 
@@ -51,13 +51,12 @@ A Flutter and Firebase-based group chat application featuring a universal group 
 Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for more such projects.
 
 
-## 📈 GitHub Stats
+![Aryan Deshpande's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshryn&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117)
 
-![Aryan Deshpande's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshryn&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dshryn&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=dshryn&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dshryn&layout=compact&title_color=00BFFF&text_color=ffffff&bg_color=0d1117)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dshryn&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://streak-stats.demolab.com?user=dshryn&theme=dark&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=0D1117&dates=ffffff)
+
 
 
 ## 📫 Contact
