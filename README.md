@@ -5,9 +5,13 @@ I am a second-year B.Tech IT student at VIT Vellore, currently exploring Flutter
 ## 🛠 Technologies & Tools
 
 *Languages*: C, C++, Java, JavaScript, Python, Dart, HTML, CSS
-*Python Libraries:* NumPy, Pandas, Matplotlib  
+
+*Python Libraries:* NumPy, Pandas, Matplotlib
+
 *Frontend*: Flutter, React, Angular
-*Backend/Databases:* Node.js, Express.js, MongoDB, SQL, Firebase  
+
+*Backend/Databases:* Node.js, Express.js, MongoDB, SQL, Firebase 
+
 *Cloud*: AWS (Certified Cloud Practitioner) – EC2, S3, Lambda
 
 ## 📚 Projects
