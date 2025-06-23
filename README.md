@@ -14,7 +14,7 @@ I am a pre-final year B.Tech IT student at VIT Vellore, currently exploring Flut
 
 *AI/ML*: IBM watsonx.ai, Huggingface
 
-*Cloud*: AWS (Certified Cloud Practitioner) – EC2, S3, Lambda
+*Cloud*: AWS Certified Cloud Practitioner - [Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/80cd8d2e71484067a23086ef76302ace)
 
 ## 📚 Projects
 
