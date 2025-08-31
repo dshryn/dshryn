@@ -1,60 +1,74 @@
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=500&lines=Hi+there%2C+I'm+Aryan+Deshpande+%F0%9F%91%8B&center=true&repeat=true)
 
-I am a pre-final year B.Tech IT student at VIT Vellore, currently exploring Flutter, Firebase, and backend frameworks of JavaScript. My academic and project experience has equipped me with significant technical expertise in the following areas.
+I’m a pre-final year B.Tech IT student at VIT Vellore with a strong interest in cloud computing, backend systems, and cross-platform app development. Over the last couple of years, I’ve worked on projects ranging from mobile apps in Flutter to cloud-native pipelines on AWS, while also gaining hands-on experience with modern backend frameworks.
+
+
 
 ## 🛠 Technologies & Tools
 
-*Languages*: C, C++, Java, JavaScript, Python, Dart, HTML, CSS
+*Languages*: C, C++, Java, Python, Dart, SQL, JavaScript
 
-*Python Libraries:* NumPy, Pandas, Matplotlib
+*Cloud*: AWS (EC2, S3, IAM, Lambda, Glue, SageMaker, Athena)
+
+*Backend/Databases:* Node.js, Express.js, PostgreSQL, MongoDB, Firebase, SQLPlus
+
+*Frontend / Mobile*: Flutter, React, Angular
+
+*AI/ML*: IBM watsonx.ai, HuggingFace
+
+*Python Libraries:* Pandas, NumPy, Matplotlib
 
 *Frontend*: Flutter, React, Angular
 
-*Backend/Databases:* Node.js, Express.js, MongoDB, SQL, Firebase 
+*Tools*: Git, GitHub, Postman, VS Code, Android Studio
 
-*AI/ML*: IBM watsonx.ai, Huggingface
+*Cloud*: AWS Certified Cloud Practitioner - [Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/80cd8d2e71484067a23086ef76302ace), IBM Gen AI using Watsonx - [Credential](https://drive.google.com/file/d/1aWUVry3rcbPaR7BpjFLM3YnGW8KCAsbj/view?usp=drive_link)
 
-*Cloud*: AWS Certified Cloud Practitioner - [Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/80cd8d2e71484067a23086ef76302ace)
+
 
 ## 📚 Projects
 
-### [Geo Photo-Vault App](https://github.com/dshryn/geo-photovault-app) 🌳📱
-A Flutter app that automatically captures photos and organizes them into location-based folders. Includes an interactive map using Google Maps API to explore current location.
+### [AWS ETL Data Pipeline](https://github.com/dshryn/etl-pipeline-aws) ☁️📊
+An end-to-end ETL data pipeline on AWS **(under development)** designed to automate ingestion, processing, and visualization of data.
+
+*Highlights:*
+
+- Data Ingestion & Storage: Raw data ingested and stored on Amazon S3.
+- Transformation: AWS Glue + Lambda functions for cleaning, transformation, and orchestration.
+- Querying & Analysis: Data catalogued and queried via Athena.
+- Visualization: Dashboard using Power BI.
+- Focus: Scalability, automation, and cost efficiency for cloud-native workloads.
+
+
+### [Geo PhotoVault App](https://github.com/dshryn/geo-photovault-app) 🌐📱
+A smart photo vault app built with Flutter that automatically organizes images by location metadata.
 
 *Key Features:*
 
-- *Auto Organization:* Saves photos into folders by city.
-- *Search:* Filter photos by location.
-- *Interactive Map:* Explore the map around your current location.
-- *Themes:* Switch between light and dark modes.
+- Auto-organization: Photos sorted into folders by city.
+- Search: Retrieve images instantly with place-based keywords.
+- Interactive Map: Explore all saved photos on a Google Maps interface.
+- Themes: Light/dark theme support with persistent user preferences.
 
-*Technical Highlights:*
-
-- Built with Flutter for cross-platform support (Android & iOS).
-- Uses image_picker for photo capture and geolocator for GPS data.
-- Saves photos with path_provider into dynamic folders by location.
-- Integrates Google Maps API for location visualization.
-- Supports theme toggling with persistent user preferences.
+Tech Used: Flutter, image_picker, geolocator, Google Maps API, path_provider
 
 
-### [Group Chat Application](https://github.com/dshryn/grp-chat-app) 👥💬
-A Flutter and Firebase-based group chat application featuring a universal group chat interface. This showcases the implementation of user authentication, real-time messaging, and a simple profile setup mechanism.
+### [Playlist Converter App](https://github.com/dshryn/playlist-converter-app) 🎧🔁
+A cross-platform app that lets users transfer playlists between Spotify, YouTube Music, and SoundCloud. (In progress)
 
-*Key Features:*
+_Highlights:_
 
-- *User Authentication:* Firebase Authentication integrates secure login and registration processes.
-- *Real-Time Messaging:* Utilizes Firebase Cloud Firestore for synchronous messaging, ensuring minimal latency and real-time data consistency.
-- *Profile Setup:* Facilitates user profile configuration.
-- *Universal Group Chat:* A singular chat room accessible to all authenticated users as a unified communication channel.
+- Multi-platform Support: Secure auth and playlist selection for all three music services.
+- Filtering & Transfer: Easy-to-use UI for selecting and transferring playlists.
+- Backend: REST API built with Express.js + PostgreSQL for secure handling.
+- Status Tracking: Displays auth and sync status for each music service.
 
-*Flutter & Firebase Concepts Utilized:*
+Tech Used: Flutter (frontend), Node.js + Express.js (backend), PostgreSQL, REST APIs
 
-- *State Management:* Uses StatefulWidget and setState for dynamic UI rendering.
-- *Data Synchronization:* Firebase Cloud Firestore's real-time database for data storage and retrieval.
-- *UI/UX Design:* Implements Material Design principles and custom widgets to ensure an intuitive user interface.
 
 
 Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for more such projects.
+
 
 
 ## 📊 GitHub Stats
