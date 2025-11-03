@@ -24,16 +24,18 @@ I’m a pre-final year B.Tech IT student at VIT Vellore with a strong interest i
 
 
 ### [End-to-end Flight Delay ETL & ML Pipeline on AWS](https://github.com/dshryn/etl-pipeline-aws) ☁️
+
 Production-style ETL + ML pipeline that ingests flight-delay CSVs and implements a medallion architecture (Bronze - Silver - Gold) on S3 to enable reliable analytics and inference.
 
 _Highlights:_
 
 - **Medallion architecture:** Bronze - Silver - Gold layers on S3 for incremental refinement, data quality, and easier downstream consumption.  
 - **Cost-efficient querying:** Athena CTAS/UNLOAD workflows using Parquet formats and partitioning for fast, low-cost queries.  
-- **Modeling & serving:** XGBoost classifier (artifacts stored in S3) and deployed real-time inference via FastAPI, containerized with Docker, with an Nginx frontend on EC2. (Serverless variant: [Serverless Variant](https://github.com/dshryn/serverless-etl-aws)).  
+- **Modeling & serving:** XGBoost classifier (artifacts stored in S3) and deployed real-time inference via FastAPI, containerized with Docker, with an Nginx frontend on EC2. ([Serverless variant repo](https://github.com/dshryn/serverless-etl-aws)).  
 - **Analyst access:** Exposed Gold tables to Power BI via Athena using the ODBC driver for self-service BI and reporting.
 
 Tech Used: AWS S3, Athena, EC2, XGBoost, FastAPI, Docker, Nginx, Power BI (ODBC)
+
 
 
 ### [Hackulus'25 Backend Portal](https://github.com/dshryn/hackulus25-be-express) 🖥️
