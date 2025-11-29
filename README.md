@@ -65,9 +65,23 @@ A smart photo vault app built with Flutter that automatically organizes images b
 Tech Used: Flutter, image_picker, geolocator, Google Maps API, path_provider
 
 
+### [Chemical Reaction Catalyst Prediction](https://github.com/dshryn/graph-catalyst-ml) 🔬⚗️  
+ML system that predicts the most suitable catalyst for a given chemical reaction using graph-based molecular representations.
+
+_Highlights:_
+
+- **Graph-Based Machine Learning:** Utilizes Morgan fingerprints (via RDKit) to encode reaction SMILES from the ORDerly dataset.  
+- **Full Preprocessing Pipeline:** Includes reaction cleaning, normalization, agent explosion, data balancing & malformed-line handling.  
+- **Model Training Suite:** Custom training pipeline with adjustable fingerprint size, class weights, chunked loading and joblib-based artifacts.  
+- **API + Frontend:** FastAPI backend with a minimalist frontend for quick catalyst predictions.  
+- **Local Debugging:** CLI inference script for rapid testing with real Reaction SMILES.
+
+**Tech Used:** RDKit, Scikit-learn, FastAPI, Uvicorn, Pandas, NumPy, Joblib, Morgan Fingerprints, ORDerly Dataset
 
 
-### [Playlist Converter App](https://github.com/dshryn/playlist-converter-app) 🎧🔁
+
+
+### Playlist Converter App 🎧🔁
 A cross-platform app that lets users transfer playlists between Spotify, YouTube Music, and SoundCloud. (In progress)
 
 _Highlights:_
