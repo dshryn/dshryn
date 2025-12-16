@@ -23,9 +23,9 @@ I’m a pre-final year B.Tech IT student at VIT Vellore with a strong interest i
 ## 📚 Projects
 
 
-### [End-to-end Flight Delay ETL & ML Pipeline on AWS](https://github.com/dshryn/etl-pipeline-aws) ☁️
+### [ML Pipeline on AWS](https://github.com/dshryn/etl-pipeline-aws) ☁️
 
-Production-style ETL + ML pipeline that ingests flight-delay CSVs and implements a medallion architecture (Bronze - Silver - Gold) on S3 to enable reliable analytics and inference.
+Production-style ML (including ETL) pipeline that ingests flight-delay CSVs and implements a medallion architecture (Bronze - Silver - Gold) on S3 to enable reliable analytics and inference.
 
 _Highlights:_
 
@@ -91,7 +91,7 @@ _Highlights:_
 - Backend: REST API built with Express.js + PostgreSQL for secure handling.
 - Status Tracking: Displays auth and sync status for each music service.
 
-Tech Used: Flutter (frontend), Node.js + Express.js (backend), PostgreSQL, REST APIs
+Tech Used: Flutter, Node.js + Express.js (backend), PostgreSQL, REST APIs
 
 
 
@@ -114,7 +114,3 @@ Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for m
 - *Email*: [dshryng@gmail.com](mailto:dshryng@gmail.com)
 - *LinkedIn*: [Aryan Deshpande](https://www.linkedin.com/in/aryan-deshpande-aabb2228a/)
 
-<!---
-dshryn/dshryn is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
