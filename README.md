@@ -1,20 +1,20 @@
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=500&lines=Hi+there%2C+I'm+Aryan+Deshpande+%F0%9F%91%8B&center=true&repeat=true)
 
-I’m a pre-final year B.Tech IT student at VIT Vellore with a strong interest in cloud computing, backend systems, and cross-platform app development. Over the last couple of years, I’ve worked on projects ranging from mobile apps in Flutter to cloud-native pipelines on AWS, while also gaining hands-on experience with modern backend frameworks.
+I’m a pre-final year B.Tech IT student at VIT Vellore with a strong interest in cloud computing, ML, cross-platform app development, and backend systems. Over the last couple of years, I’ve worked on projects ranging from mobile apps in Flutter to cloud-native pipelines on AWS, while also gaining hands-on experience with backend and ML frameworks.
 
 
 
 ## 🛠 Technologies & Tools
 
-*Languages & Web*: C, C++, Java, Python, Dart, SQL, JavaScript, HTML, CSS
+*Languages & Web*: C++, Python, Dart, SQL, HTML, CSS
 
 *Cloud*: AWS (SageMaker AI, EC2, S3, Lambda, Glue, Athena, IAM)
 
-*Backend & Databases*: Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Firebase, SQLPlus
+*Backend & Databases*: Express.js, PostgreSQL, SQLPlus
 
 *Frameworks & Libraries*: Flutter, Pandas, Matplotlib
 
-*Tools*: Power BI, Postman, Git, GitHub, Android Studio, VS Code, Linux, Docker
+*Tools*: Power BI, Postman, Git, Android Studio
 
 *Certifications*: AWS Certified Cloud Practitioner - [Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/80cd8d2e71484067a23086ef76302ace), Generative AI using IBM Watsonx - [Credential](https://drive.google.com/file/d/1aWUVry3rcbPaR7BpjFLM3YnGW8KCAsbj/view?usp=drive_link)
 
