@@ -4,7 +4,7 @@ I’m a pre-final year B.Tech IT student at VIT Vellore with a strong interest i
 
 
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 *Languages & Web*: C++, Python, Dart, SQL, HTML, CSS
 
@@ -20,10 +20,10 @@ I’m a pre-final year B.Tech IT student at VIT Vellore with a strong interest i
 
 
 
-## 📚 Projects
+## Projects
 
 
-### [ML Pipeline on AWS](https://github.com/dshryn/etl-pipeline-aws) ☁️
+### [ML Pipeline on AWS](https://github.com/dshryn/etl-pipeline-aws)
 
 Production-style ML (including ETL) pipeline that ingests flight-delay CSVs and implements a medallion architecture (Bronze - Silver - Gold) on S3 to enable reliable analytics and inference.
 
@@ -38,7 +38,7 @@ Tech Used: AWS S3, Athena, EC2, XGBoost, FastAPI, Docker, Nginx, Power BI (ODBC)
 
 
 
-### [Hackulus'25 Backend Portal](https://github.com/dshryn/hackulus25-be-express) 🖥️
+### [Hackulus'25 Backend Portal](https://github.com/dshryn/hackulus25-be-express)
 Official backend for Hackulus’25, SIAM-VIT’s flagship hackathon with 300+ participants.  
 
 _Highlights:_
@@ -52,7 +52,7 @@ Tech Used: Node.js + Express.js (backend), PostgreSQL, REST APIs, JWT Authentica
 
 
 
-### [Geo PhotoVault App](https://github.com/dshryn/geo-photovault-app) 🌐📱
+### [Geo PhotoVault App](https://github.com/dshryn/geo-photovault-app)
 A smart photo vault app built with Flutter that automatically organizes images by location metadata.
 
 *Key Features:*
@@ -65,7 +65,7 @@ A smart photo vault app built with Flutter that automatically organizes images b
 Tech Used: Flutter, image_picker, geolocator, Google Maps API, path_provider
 
 
-### [Chemical Reaction Catalyst Prediction](https://github.com/dshryn/graph-catalyst-ml) 🔬⚗️  
+### [Chemical Reaction Catalyst Prediction](https://github.com/dshryn/graph-catalyst-ml)
 ML system that predicts the most suitable catalyst for a given chemical reaction using graph-based molecular representations.
 
 _Highlights:_
@@ -81,7 +81,7 @@ _Highlights:_
 
 
 
-### Playlist Converter App 🎧🔁
+### Playlist Converter App
 A cross-platform app that lets users transfer playlists between Spotify, YouTube Music, and SoundCloud. (In progress)
 
 _Highlights:_
@@ -99,7 +99,7 @@ Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for m
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=dshryn&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117)
 
@@ -109,8 +109,8 @@ Kindly [visit my repositories](https://github.com/dshryn?tab=repositories) for m
 
 
 
-## 📫 Contact
+## Contact
 
 - *Email*: [dshryng@gmail.com](mailto:dshryng@gmail.com)
-- *LinkedIn*: [Aryan Deshpande](https://www.linkedin.com/in/aryan-deshpande-aabb2228a/)
+- *LinkedIn*: [Aryan Deshpande](https://www.linkedin.com/in/dshryn)
 
